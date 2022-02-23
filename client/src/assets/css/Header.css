@@ -1,0 +1,7 @@
+.tk__header{
+    display:flex;
+    align-items: center;
+    height:70px;
+    background-color:#fff;
+    text-align: center;
+}

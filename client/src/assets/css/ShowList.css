@@ -1,0 +1,26 @@
+.show__suppliers{
+    width:100%;
+    text-align: center;
+    background-color:aliceblue;
+    padding:30px 15px;
+    border-radius:5px;
+    display: flex;
+    justify-content: space-between;
+    margin:30px 0;
+    box-shadow: 2px 2px 2px 0;
+}
+
+.show__suppliers div{
+    border-right: 1px solid #ccc;
+    padding-right: 10px;
+}
+.show__suppliers div span{
+    padding:10px;
+}
+.show__suppliers div:last-of-type{
+    border:none;
+}
+.show__suppliers p{
+    font-size:15px;
+    margin: 10px;
+}
